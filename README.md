@@ -31,7 +31,7 @@ library(dplyr)
 
 
 
-```{r warning=FALSE}
+```{r}
 
 
 load("C:/Users/Akshay/Desktop/ICPSR_36151/DS0003/36151-0003-Data.rda")
